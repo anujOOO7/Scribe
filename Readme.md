@@ -1,4 +1,4 @@
-# Fullstack MERN Blogging Website
+# FullStack MERN Blogging Website
 
 made by Anuj
 
